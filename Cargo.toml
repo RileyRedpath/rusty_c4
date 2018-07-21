@@ -1,0 +1,8 @@
+[package]
+name = "c4"
+version = "0.1.0"
+authors = ["Riley <riley.redpath@queensu.ca>"]
+
+[dependencies]
+rand = "0.3.15"
+rayon = "1.0.1"
